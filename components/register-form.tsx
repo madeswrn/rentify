@@ -113,7 +113,7 @@ const Signup = () => {
                 <Link href="/auth/login">already have an account</Link>
               </div>
               <div className="self-end mr-3 text-sky-500">
-                <Link href="./">back</Link>
+                <Link href="../">back</Link>
               </div>
             </div>
           </form>
