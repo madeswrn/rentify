@@ -6,7 +6,7 @@ import { toast, Toaster } from "react-hot-toast";
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-const login = () => {
+const Login = () => {
   const router = useRouter();
   const submitHandler = async (formdata: FormData) => {
     const inputdata = {
@@ -86,4 +86,4 @@ const login = () => {
     </div>
   );
 };
-export default login;
+export default Login;
