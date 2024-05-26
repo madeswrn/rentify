@@ -11,7 +11,7 @@ export default function Home() {
         </div>
         <div className="text-center text-xl md:text-2xl font-[nunito sans]">
           For Property Owners: Effortlessly connect with qualified tenants who
-          match your property's criteria. <br/> For Tenants: Find your dream rental
+          match your propertys criteria. <br/> For Tenants: Find your dream rental
           with ease by inputting your key requirements. <br/> Join Rentify today and
           simplify your rental journey
         </div>
