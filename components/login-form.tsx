@@ -77,7 +77,7 @@ const Login = () => {
                 <Link href="/auth/register">Dont have an account</Link>
               </div>
               <div className="self-end mr-3 text-sky-500">
-                <Link href="./">back</Link>
+                <Link href="../">back</Link>
               </div>
             </div>
           </form>
